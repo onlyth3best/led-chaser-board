@@ -19,7 +19,7 @@
 <br/> - LEDs
 <br/> - capacitors
 
-<br/> how does it work?
+<br/> how does it work / how should you use it?
 <br/> - no firmware is required, only a power source, if I recall correctly; the blinking should automatically start!
 
 <br/> motivation for making it:
