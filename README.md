@@ -20,7 +20,7 @@
 <br/> - capacitors
 
 <br/> how does it work / how should you use it?
-<br/> - no firmware is required, only a power source, if I recall correctly; the blinking should automatically start!
+<br/> - *no firmware is required*, only a power source, if I recall correctly; the blinking should automatically start!
 
 <br/> motivation for making it:
 <br/> - as a beginner in terms of hardware projects, I thought it would be nice to make something simple for a moment before continuing onto more complicated PCB designs as well as other hardware things.
