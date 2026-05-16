@@ -9,7 +9,8 @@
 <br/>
 <br/> image of pcb and shematics:
 <img width="811" height="692" alt="pcb" src="https://github.com/user-attachments/assets/52c7b1fc-bd09-4b19-968b-d0c190e80aa0" />
-<img width="659" height="355" alt="schem" src="https://github.com/user-attachments/assets/861a4e97-2478-408a-a719-4585c53919af" />
+<img width="869" height="495" alt="Sschem" src="https://github.com/user-attachments/assets/e07302e2-9751-4575-ad52-3fe36f4d3780" />
+
 
 <br/> what is it? a PCB with:
 
