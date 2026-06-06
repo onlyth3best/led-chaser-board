@@ -1,4 +1,4 @@
-"Reference","Qty","Value","Footprint","Datasheet","Price", "Description"
+"Reference","Qty","Value","Footprint","Link","Price", "Description"
 "C1","1","C_Polarized","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","","price","Polarized capacitor"
 "C2","1","C","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","","price","Unpolarized capacitor"
 "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10","10","LED","LED_THT:LED_D3.0mm","","price","Light emitting diode"
