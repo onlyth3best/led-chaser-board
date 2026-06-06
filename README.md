@@ -22,3 +22,16 @@
 <img width="528" height="533" alt="schem" src="https://github.com/user-attachments/assets/0f92e338-a156-4fac-8f18-7795e5f3da4b" />
 <br/>
 <img width="869" height="495" alt="Sschem" src="https://github.com/user-attachments/assets/e07302e2-9751-4575-ad52-3fe36f4d3780" />
+
+
+| Reference             | Qty | Value       | Footprint                                         | Link                                                                 | Price    | Description                                  |
+|-----------------------|-----|------------|---------------------------------------------------|----------------------------------------------------------------------|----------|----------------------------------------------|
+| C1 | 1   | C_Polarized | Capacitor_THT:CP_Radial_D5.0mm_P2.00mm           | https://jlcpcb.com/partdetail/1875-0402B102K500NT/C1523            | 0.01 USD | Polarized capacitor |
+| C2 | 1   | C           | Capacitor_THT:CP_Radial_D5.0mm_P2.00mm           | https://jlcpcb.com/partdetail/1875-0402B102K500NT/C1523            | 0.01 USD | Unpolarized capacitor |
+| D1, D2, D3, D4, D5, D6, D7, D8, D9, D10 | 10  | LED         | LED_THT:LED_D3.0mm                               | https://sigmanortec.ro/en/led-5mm-white?SubmitCurrency=1&id_currency=3 | 0.07 USD | Light emitting diode |
+| R1 | 1   | 470 Ω       | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | https://jlcpcb.com/partdetail/1800-RS06K910JT/C1448 | 0.01 USD | Resistor   |
+| R2 | 1   | 50 kΩ       | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | https://jlcpcb.com/partdetail/1800-RS06K910JT/C1448 | 0.01 USD | Resistor   |
+| R3 | 1   | 1 kΩ        | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | https://jlcpcb.com/partdetail/1800-RS06K910JT/C1448 | 0.01 USD | Resistor   |
+| U1 | 1   | NE555P      | Package_DIP:DIP-8_W7.62mm                        | https://www.mouser.co.uk/ProductDetail/Texas-Instruments/NE555P    | 0.58 USD | Precision Timer (555 compatible, PDIP-8) |
+| U2 | 1   | 4017        | footprintsthiss:N16                              | https://uk.rs-online.com/web/p/counter-ics/7320691                 | 1.30 USD | Johnson Counter (10 outputs)  |
+| - | -  | - | - | - | Total ~ 2.9 USD | -  |
