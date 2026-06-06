@@ -28,6 +28,8 @@
 <img width="869" height="495" alt="Sschem" src="https://github.com/user-attachments/assets/e07302e2-9751-4575-ad52-3fe36f4d3780" />
 
 
+# BOM here:
+
 | Reference             | Qty | Value       | Footprint                                         | Link                                                                 | Price    | Description                                  |
 |-----------------------|-----|------------|---------------------------------------------------|----------------------------------------------------------------------|----------|----------------------------------------------|
 | C1 | 1   | C_Polarized | Capacitor_THT:CP_Radial_D5.0mm_P2.00mm           | https://jlcpcb.com/partdetail/1875-0402B102K500NT/C1523            | 0.01 USD | Polarized capacitor |
